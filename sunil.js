@@ -1,1 +1,1 @@
-const packageName = require('packageName');
+const packageName = require('edo kotha package');
